@@ -6,4 +6,4 @@ sum_of_ages = age1 + age2 + age3
 average_age = sum_of_ages / 3
 
 print(sum_of_ages)
-print(average_age)
+print(round(average_age, 2))
